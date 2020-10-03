@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<title>Privacy Quest Worlds</title>
+<head>
+    <style>
+        body {
+            background-color: #1d1818;
+        }
+
+        #main {
+            background-color: beige;
+
+            outline: none;
+            border-color: #1d1818;
+            box-shadow: 0 0 10px #1d1818;
+
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+
+            width: 100%;
+            height: 90%;
+
+            text-align: center;
+        }
+
+        #loaderc {
+            width: 100%;
+            height: 100%;
+            margin-top: 0px;
+        }
+
+        #loader {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="main">
+        <p id="loaderc">
+            <object id="loader" type="application/x-shockwave-flash" data="./game/gamefiles/loader.swf">
+                <param name="allowscriptaccess" value="always" />
+            </object>
+        </p>
+    </div>
+</body>
+
+</html>
