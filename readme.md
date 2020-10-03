@@ -1,4 +1,5 @@
-Privacy Quest is a project made for the purpose of letting users use unfiltered encrypted private chat among each other in AQW. Privacy Quest provides many features in game such as change username/guild color for yourself and others who use the program, secret chat (encrypted chat that anyone in the room using the program can see), emotes in the secret chat, house blacklist to kick unwanted players from your house, and more. Everything is real time, all players on the program can see colors, links, and any changes the program makes.
+### PrivacyQuest
+PrivacyQuest is a project made for the purpose of letting users use unfiltered encrypted private chat among each other in AQW. Privacy Quest provides many features in game such as change username/guild color for yourself and others who use the program, secret chat (encrypted chat that anyone in the room using the program can see), emotes in the secret chat, house blacklist to kick unwanted players from your house, and more. Everything is real time, all players on the program can see colors, links, and any changes the program makes.
 
 VirusTotal link: https://www.virustotal.com/gui/file/72d5b5d22f05cfc94bc2a95656798b6c645f76de82719fa094ac2415fb8fd04e/detection
 
