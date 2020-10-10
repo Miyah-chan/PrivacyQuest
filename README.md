@@ -4,6 +4,7 @@ AQW client with modifications for enhanced experience and privacy.
 Privacy Quest is a project made for the purpose of letting users use unfiltered encrypted private chat among each other in AQW. Privacy Quest provides many features in game such as change username/guild color for yourself and others who use the program, secret chat (encrypted chat that anyone in the room using the program can see), emotes in the secret chat, house blacklist to kick unwanted players from your house, and more. Everything is real time, all players on the program can see colors, links, and any changes the program makes.
 
 Privacy Quest Discord: https://discord.gg/Z3J93wZ
+
 Virustotal scan: https://www.virustotal.com/gui/file/da81d2b61dcd08f72ae49d5d21b1f0ed31d973f85e20cc100ad9843688a60883
 
 To begin, start the application and hit "Start Proxy".
