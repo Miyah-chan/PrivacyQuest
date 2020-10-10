@@ -7,9 +7,10 @@ Privacy Quest Discord: https://discord.gg/Z3J93wZ
 Virustotal scan: https://www.virustotal.com/gui/file/da81d2b61dcd08f72ae49d5d21b1f0ed31d973f85e20cc100ad9843688a60883
 
 To begin, start the application and hit "Start Proxy".
+
 ![manager](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/manager.png)
 
-Then click inside the green text field to go to http://127.0.0.1 or enter it manually in your browser.
+Then click inside the green text field to go to http://127.0.0.1/ or enter it manually in your browser.
 
 ![start_proxy](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/activate_proxy.png)
 
@@ -42,4 +43,5 @@ For fun, death scene ADS were removed, and death messages replaced with some tre
 ![deathads](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/adless.png)
 
 PrivacyQuest also comes with a panel that lets you target a character by clicking their username, turn off the username colours, or refresh the emotes (F4) in real time.
+
 ![misc](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/misc.png)
