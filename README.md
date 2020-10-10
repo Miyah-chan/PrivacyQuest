@@ -37,7 +37,8 @@ You can keep unwanted visitors from your house now with the blacklist feature. A
 ![house](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/kicked.png)
 
 You can now use the 'ESCAPE' key to deselect targets.
-!!afk will enable permanent afk.
+!!afkmode will show afk options:
+'afk' for permanent afk, 'noafk' to never go afk and 'normal' to go back to normal.
 For fun, death scene ADS were removed, and death messages replaced with some treats.
 
 ![deathads](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/adless.png)
