@@ -6,13 +6,20 @@ Privacy Quest is a project made for the purpose of letting users use unfiltered 
 Privacy Quest Discord: https://discord.gg/Z3J93wZ
 Virustotal scan: https://www.virustotal.com/gui/file/da81d2b61dcd08f72ae49d5d21b1f0ed31d973f85e20cc100ad9843688a60883
 
+To begin, start the application and hit "Start Proxy".
+![manager](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/manager.png)
+
+Then click inside the green text field to go to http://127.0.0.1 or enter it manually in your browser.
+
+![start_proxy](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/activate_proxy.png)
+
 Do !!help to see all commands available.
 
 To change username/guild colors for yourself and others, type !!colors in chat. Guild colors only change if your guild mates are also using the program. When secret chat is enabled, only users on the program and in the same room can see it. Moderators cannot view the chat in a report, and the chat is encrypted.
 
 ![secretchat](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/secretchat.png)
 
-Press f4 to open the emote menu. Click an emote to send it in chat. All emotes are located in web/game/gamefiles/em.txt You can add more emote urls to the txt file at any time, save the file and refresh the page to see new emotes that you have added to appear in the menu. Images only work on secretchat. Supported types are Png, Jpg, Gif.
+Press f4 to open the emote menu. Click an emote to send it in chat. All emotes are located in web/game/gamefiles/em.txt You can add more emote urls to the txt file at any time. Images only work on secretchat. Supported types are Png, Jpg, Gif.
 
 ![emotes](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/emotes.png)
 
@@ -33,3 +40,6 @@ You can now use the 'ESCAPE' key to deselect targets.
 For fun, death scene ADS were removed, and death messages replaced with some treats.
 
 ![deathads](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/adless.png)
+
+PrivacyQuest also comes with a panel that lets you target a character by clicking their username, turn off the username colours, or refresh the emotes (F4) in real time.
+![misc](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/misc.png)
