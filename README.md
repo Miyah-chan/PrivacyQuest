@@ -14,7 +14,7 @@ To change username/guild colors for yourself and others, type !!colors in chat. 
 
 Press f4 to open the emote menu. Click an emote to send it in chat. All emotes are located in web/game/gamefiles/em.txt You can add more emote urls to the txt file at any time, save the file and refresh the page to see new emotes that you have added to appear in the menu. Images only work on secretchat. Supported types are Png, Jpg, Gif.
 
-![emotes](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/emotes.png?token=ARHMTCL5YGFCN7RKGDE5N4K7O7N4A)
+![emotes](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/adless.png)
 
 All chat restrictions have been removed, you can send profanity, links, and previously unsendable symbols in the chat such as "@", "&" and any brackets.
 
