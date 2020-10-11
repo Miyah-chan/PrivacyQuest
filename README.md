@@ -21,7 +21,9 @@ To change username/guild colors for yourself and others, type !!colors in chat. 
 
 ![secretchat](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/secretchat.png)
 
-Press f4 to open the emote menu. Click an emote to send it in chat. All emotes are located in web/game/gamefiles/em.txt You can add more emote urls to the txt file at any time. Images only work on secretchat. Supported types are Png, Jpg, Gif.
+Press f4 to open the emote menu. Click an emote to send it in chat. All emotes are located in web/game/gamefiles/em.txt You can add more emote urls to the txt file at any time. Images only work on secretchat. Supported types are Png, Jpg, Gif. As a bonus, you can also modify maps, items, monsters in the gamefiles subfolders.
+
+As a proxy, it caches files and thus saves up bandwidth and loads items/maps quicker as they are served by the local webserver.
 
 ![emotes](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/emotes.png)
 
@@ -33,7 +35,9 @@ Another way to see users in the room who also use privacy quest is by pressing f
 
 ![users](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/users.png)
 
-You can keep unwanted visitors from your house now with the blacklist feature. Any user to join the house who is on the list will get removed instantly. You can also directly kick them by typing their name, and pressing kick.
+You can keep unwanted visitors from your house now with the blacklist feature. Any user to join the house who is on the list will get removed instantly. You can also directly kick them by typing their name, and pressing kick. To open it, use !!hmenu. Note: It starts minimized.
+
+![guis](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/gui.png)
 
 ![house](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/kicked.png)
 
