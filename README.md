@@ -51,3 +51,10 @@ For fun, death scene ADS were removed, and death messages replaced with some tre
 PrivacyQuest also comes with a panel that lets you target a character by clicking their username, turn off the username colours, or refresh the emotes (F4) in real time.
 
 ![misc](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/misc.png)
+
+# Installation How-To
+Go to [releases](https://github.com/Miyah-chan/PrivacyQuest/releases/) to download the zip.
+Once unzipped, start the PrivacyQuest.exe
+
+# Issues
+If you have any issues, feel free to open an issue or contact me on my discord.
