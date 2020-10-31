@@ -5,7 +5,7 @@ Privacy Quest is a project made for the purpose of letting users use unfiltered 
 
 Privacy Quest Discord: https://discord.gg/Z3J93wZ
 
-Virustotal scan: https://www.virustotal.com/gui/file/da81d2b61dcd08f72ae49d5d21b1f0ed31d973f85e20cc100ad9843688a60883
+Virustotal scan: https://www.virustotal.com/gui/file/50ab4dcfd6b3d9f22b445628374ddba26abf094cda0e2d49437f78353072012a/
 
 To begin, start the application and hit "Start Proxy".
 
@@ -33,9 +33,11 @@ All chat restrictions have been removed, you can send profanity, links, and prev
 
 Another way to see users in the room who also use privacy quest is by pressing f3.
 
-![users](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/users.png)
+![users](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/pqinmap.png)
 
-You can keep unwanted visitors from your house now with the blacklist feature. Any user to join the house who is on the list will get removed instantly. You can also directly kick them by typing their name, and pressing kick. To open it, use !!hmenu. Note: It starts minimized.
+You can keep unwanted visitors from your house now with the blacklist feature. Any user to join the house who is on the list will get removed instantly. You can also directly kick them by typing their name, and pressing kick. To open it, use !!hmenu. 
+
+# Note: It starts minimized.
 
 ![guis](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/gui.png)
 
@@ -49,8 +51,26 @@ For fun, death scene ADS were removed, and death messages replaced with some tre
 ![deathads](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/adless.png)
 
 PrivacyQuest also comes with a panel that lets you target a character by clicking their username, turn off the username colours, or refresh the emotes (F4) in real time.
+# New in 1.1: added FPS setter
+![misc](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/newtoggle.png)
+#         == 1.1 Changelog == 
+# Added Privacy Metrics
+Privacy Metrics keeps track of your total damage, monster kills, player kills and deaths as you adventure. You can open the panel by typing !!stats
+ps: total damage consists of both damage and DoT.
+![pqmetrics](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/privacymetrics.png)
+# Flash plugin system (for developers)
+You can now create and use your own flash plugins at .\web\game\gamefiles\pluginsSWF
+1.1 comes with a default plugin that makes your character wave when you press shift.
+Open with F5 and simply click Add plugin to activate. Click 'x' to unload them.
+![pluginsys](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/pluginsystem.png)
 
-![misc](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/misc.png)
+# Other minor changes
++Incognito mode, hides all colours & makes you invisible in F3 (for everyone) in config.json
++Disable colors (Only for you)
++Room joins/leaves alerts can be turned off in config.json
++House blacklist can now be saved in house_blacklist.json
+-Removed clickable usernames
+
 
 # Installation How-To
 Go to [releases](https://github.com/Miyah-chan/PrivacyQuest/releases/) to download the zip.
