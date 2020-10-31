@@ -54,7 +54,7 @@ For fun, death scene ADS were removed, and death messages replaced with some tre
 By editing keyword_shortcuts.json you can save time when typing by creating your own word shortcuts.
 For example tercessuinotlim is shortened by default to $t while battleon is $b
 >e.g. /join $b or /invite $a to invite artix ($a, $t and $b are defaults.) 
-PrivacyQuest also comes with a panel that lets you target a character by clicking their username, turn off the username colours, or refresh the emotes (F4) in real time.
+PrivacyQuest also comes with a panel that lets you ~~target a character by clicking their username,~~ turn off the username colours, or refresh the emotes (F4) in real time.
 # New in 1.1: added FPS setter
 ![misc](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/newtoggle.png)
 #         == 1.1 Changelog == 
