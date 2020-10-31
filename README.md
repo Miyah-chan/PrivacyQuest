@@ -65,11 +65,11 @@ Open with F5 and simply click Add plugin to activate. Click 'x' to unload them.
 ![pluginsys](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/pluginsystem.png)
 
 # Other minor changes
-+Incognito mode, hides all colours & makes you invisible in F3 (for everyone) in config.json
-+Disable colors (Only for you)
-+Room joins/leaves alerts can be turned off in config.json
-+House blacklist can now be saved in house_blacklist.json
--Removed clickable usernames
+> Incognito mode, hides all colours & makes you invisible in F3 (for everyone) in config.json
+> Disable colors (Only for you)
+> Room joins/leaves alerts can be turned off in config.json
+> House blacklist can now be saved in house_blacklist.json
+> Removed clickable usernames
 
 
 # Installation How-To
