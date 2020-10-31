@@ -1,4 +1,5 @@
 {
     "chat-logging": true,
-    "keyword-shortcuts": true
+    "room-updates": true,
+    "incognito": false
 }
