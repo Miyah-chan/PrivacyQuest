@@ -65,6 +65,8 @@ ps: total damage consists of both damage and DoT.
 # Flash plugin system (for developers)
 You can now create and use your own flash plugins at .\web\game\gamefiles\pluginsSWF
 1.1 comes with a default plugin that makes your character wave when you press shift.
+The source code for the default plugin can be found ![here](https://github.com/Miyah-chan/PrivacyQuest/tree/main/plugin_src)
+
 Open with F5 and simply click Add plugin to activate. Click 'x' to unload them.
 ![pluginsys](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/pluginsystem.png)
 
