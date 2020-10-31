@@ -24,6 +24,7 @@ To change username/guild colors for yourself and others, type !!colors in chat. 
 Press f4 to open the emote menu. Click an emote to send it in chat. All emotes are located in web/game/gamefiles/em.txt You can add more emote urls to the txt file at any time. Images only work on secretchat. Supported types are Png, Jpg, Gif. As a bonus, you can also modify maps, items, monsters in the gamefiles subfolders.
 
 As a proxy, it caches files and thus saves up bandwidth and loads items/maps quicker as they are served by the local webserver.
+Cached files are saved locally in the ./web folder. It starts off empty, but as you cache more files you'll notice loading is instant!
 
 ![emotes](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/emotes.png)
 
@@ -37,11 +38,12 @@ Another way to see users in the room who also use privacy quest is by pressing f
 
 You can keep unwanted visitors from your house now with the blacklist feature. Any user to join the house who is on the list will get removed instantly. You can also directly kick them by typing their name, and pressing kick. To open it, use !!hmenu. 
 
+![house](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/kicked.png)
+
 # Note: It starts minimized.
 
 ![guis](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/gui.png)
 
-![house](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/kicked.png)
 
 You can now use the 'ESCAPE' key to deselect targets.
 !!afkmode will show afk options:
@@ -49,7 +51,9 @@ You can now use the 'ESCAPE' key to deselect targets.
 For fun, death scene ADS were removed, and death messages replaced with some treats.
 
 ![deathads](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/adless.png)
-
+By editing keyword_shortcuts.json you can save time when typing by creating your own word shortcuts.
+For example tercessuinotlim is shortened by default to $t while battleon is $b
+>e.g. /join $b or /invite $a to invite artix ($a, $t and $b are defaults.) 
 PrivacyQuest also comes with a panel that lets you target a character by clicking their username, turn off the username colours, or refresh the emotes (F4) in real time.
 # New in 1.1: added FPS setter
 ![misc](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/images/newtoggle.png)
