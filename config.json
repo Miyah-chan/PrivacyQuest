@@ -1,5 +1,11 @@
 {
-    "chat-logging": true,
-    "room-updates": true,
-    "incognito": false
+   "chat-logging": true,
+   "room-updates": true,
+   "incognito": false,
+   "chat-notifications": true,
+   "room-updates-notifications": true,
+   "kill-toast": true,
+   "potion-awe-detection": true,
+   "discord-whitelist": true,
+   "gifs": true
 }

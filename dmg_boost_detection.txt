@@ -1,0 +1,5 @@
+# Add 1 swf filename per line. **not** item names (sFile) Helm/Cape Only
+# Lines that START with a # will be ignored so you can take notes e.g:
+# Shadowscythe General Cape
+ShadowscytheGeneral2018Cape.swf
+# and so on...
