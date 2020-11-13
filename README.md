@@ -88,6 +88,7 @@ By editing map_shortcuts.json you can shorten map names. e.g. /join b-1234 will 
 Privacy Metrics keeps track of your total damage, monster kills, player kills, deaths, Healing received, total healing, DoT, HoT, Gold and XP gained, total damage from players and monsters as you adventure. You can open the panel by typing !!stats
 ps: total damage consists of both damage and DoT.
 ![PrivacyMetrics](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/media/kill_toast_metrics_Trim.gif)
+
 As seen above, PQ also keeps track of player's k/d streak in warzone and announces it whenever a player gets a kill.
 # Flash plugin system (for developers)
 You can now create and use your own flash plugins at .\web\game\gamefiles\pluginsSWF
