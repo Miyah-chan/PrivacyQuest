@@ -9,7 +9,7 @@ Privacy Quest is a project made for the purpose of letting users use unfiltered 
 
 Privacy Quest Discord: https://discord.gg/Z3J93wZ
 
-Virustotal scan: https://www.virustotal.com/gui/file/6630a7dbed74ce8563aea06a631ee62ea59669279d37f22ef10d6b76e97a358f/
+Virustotal scan: https://www.virustotal.com/gui/file/ef54b35e892c4ae16aa96e2d88abf11aa04f67e836b4d2b028168b79244ef2f7/
 
 # Quickstart
 To begin, start the application and hit "Start Proxy".
