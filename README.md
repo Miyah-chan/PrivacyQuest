@@ -9,7 +9,7 @@ Privacy Quest is a project made for the purpose of letting users use unfiltered 
 
 Privacy Quest Discord: https://discord.gg/Z3J93wZ
 
-Virustotal scan: https://www.virustotal.com/gui/file/632325294e567665e2de121228cac97c205d1f8dc5feeff48c76f6443f6a77b7
+Virustotal scan: https://www.virustotal.com/gui/file/6630a7dbed74ce8563aea06a631ee62ea59669279d37f22ef10d6b76e97a358f/
 
 # Quickstart
 To begin, start the application and hit "Start Proxy".
@@ -35,6 +35,13 @@ To change username/message/guild or name in chat colors for yourself and others 
 Format is #000000 (the # can be omitted)
 
 ![colors](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/media/colors.png)
+
+When you're tabbed out of PrivacyQuest, you can receive toast notifications when someone sends any kind of message (including secret chat) or joins/leaves the room.
+
+![join_toast](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/media/join_toast.gif)
+![leave_toast](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/media/leave_toast.gif)
+![message_toast](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/media/message_toast.gif)
+
 
 Press F4 to open the emote menu. Click an emote to send it in chat. All emotes are located in web/game/gamefiles/em.txt You can add more emote urls to the txt file at any time. Supported types are Png, Jpg, Gif. 
 
@@ -81,6 +88,7 @@ By editing map_shortcuts.json you can shorten map names. e.g. /join b-1234 will 
 Privacy Metrics keeps track of your total damage, monster kills, player kills, deaths, Healing received, total healing, DoT, HoT, Gold and XP gained, total damage from players and monsters as you adventure. You can open the panel by typing !!stats
 ps: total damage consists of both damage and DoT.
 ![PrivacyMetrics](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/media/kill_toast_metrics_Trim.gif)
+
 As seen above, PQ also keeps track of player's k/d streak in warzone and announces it whenever a player gets a kill.
 # Flash plugin system (for developers)
 You can now create and use your own flash plugins at .\web\game\gamefiles\pluginsSWF
@@ -92,7 +100,7 @@ The source code for the default plugin can be found ![here](https://github.com/M
 
 Open with F5 and simply click Add plugin to activate. Click 'x' to unload them.
 
-Features added suggested by PQ users: (thank you!)
+> Features added suggested by PQ users: (thank you!)
 Secretchat is now on/off toggleable by pressing F1.
 (warzone only) In game notification for kills, deaths, kill/death streak
 (warzone only) Potion/scroll detection when an effect activates/fades. Also works on Awe blast and Spiral carve.
