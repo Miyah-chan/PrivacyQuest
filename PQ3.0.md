@@ -18,7 +18,7 @@
 
 > Leaderboard added for 8v8 warzones. Press F6.
 
-# Important note: In PQ 3.0 the security of secretchat has been highly enhanced and is different from 2.x and 1.x versions thus chat won't work with users of version < 3.0
+# Important note: In PQ 3.0 the security of secretchat has been highly enhanced and is different from 2.x and 1.x versions thus chat won't work with users of version < 3.0. This includes that they won't be seen in F3.
 
 > == Features Visualized below ==
 
