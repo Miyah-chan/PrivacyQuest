@@ -1,6 +1,6 @@
 # ==PQ 3.0 Changelog==
 # Summary
-> Added custom inventory for temp drops.
+> Added custom inventory for temp drops. Press F2
 
 > Self deselect option added in the configuration menu. Deselects yourself if you use a skill that selects your character. You can still click yourself.
 
@@ -16,7 +16,7 @@
 
 > Re-added and improved username targeting. Just by clicking and holding (release not necessary) the mouse on a username will select them.
 
-> Leaderboard added for 8v8 warzones.
+> Leaderboard added for 8v8 warzones. Press F6.
 
 # Important note: In PQ 3.0 the security of secretchat has been highly enhanced and is different from 2.x and 1.x versions thus chat won't work with users of version < 3.0
 
