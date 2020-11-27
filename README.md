@@ -95,15 +95,6 @@ ps: total damage consists of both damage and DoT.
 ![PrivacyMetrics](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/media/kill_toast_metrics_Trim.gif)
 
 As seen above, PQ also keeps track of player's k/d streak in warzone and announces it whenever a player gets a kill.
-# Flash plugin system (for developers)
-You can now create and use your own flash plugins at .\web\game\gamefiles\pluginsSWF
-PQ comes with a default plugin that makes your character wave when you press shift.
-
-The source code for the default plugin can be found ![here](https://github.com/Miyah-chan/PrivacyQuest/tree/main/plugin_src)
-
-![pluginsys](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/media/press_shift_Trim.gif)
-
-Open with F5 and simply click Add plugin to activate. Click 'x' to unload them.
 
 > Features added suggested by PQ users: (thank you!)
 Secretchat is now on/off toggleable by pressing F1.
