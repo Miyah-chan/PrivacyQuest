@@ -32,7 +32,7 @@ By default, regular drops are hidden now. To re-enable them, activate the Classi
 # Automatically deselect your character.
 ![autodeselect](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/media/autodeselect.gif)
 
-Deselects your character when a skill that targets it is used. You can stil click yourself.
+Deselects your character when a skill that targets it is used. You can still click yourself.
 
 # Enhancements made easy
 ![autoenh](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/media/autoenh.gif)
