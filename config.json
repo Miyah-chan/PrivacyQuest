@@ -1,11 +1,14 @@
 {
-   "chat-logging": true,
-   "room-updates": true,
+   "prefix": "!!",
+   "log_chat": true,
+   "room_update": true,
    "incognito": false,
-   "chat-notifications": true,
-   "room-updates-notifications": true,
-   "kill-toast": true,
-   "potion-awe-detection": true,
-   "discord-whitelist": true,
-   "gifs": true
+   "chat_notifs": true,
+   "room_update_notifs": true,
+   "kill_toast": true,
+   "potion_detection": false,
+   "discord_whitelist": true,
+   "gifs_enabled": true,
+   "quest_reaccept": true,
+   "self_deselect": true
 }
