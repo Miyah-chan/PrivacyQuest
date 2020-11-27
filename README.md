@@ -1,7 +1,12 @@
 # PrivacyQuest
 AQW client with modifications for enhanced experience and privacy.
 
-Privacy Quest is a project made for the purpose of letting users use unfiltered encrypted private chat among each other in AQW. Privacy Quest provides many features in game such as change username/guild color for yourself and others who use the program, secret chat (encrypted chat that anyone in the room using the program can see), emotes in the secret chat, house blacklist to kick unwanted players from your house, and more. Everything is real time, all players on the program can see colors, links, and any changes the program makes.
+Privacy Quest is a project made for the purpose of letting users use unfiltered encrypted private chat among each other in AQW. Privacy Quest provides many features in game such as change username/guild color for yourself and others who use the program, secret chat (encrypted chat that anyone in the room using the program can see), emotes in the secret chat, house blacklist to kick unwanted players from your house, and more. Everything is real time, all players on the program can see colors, links, and any changes the program makes. PrivacyQuest is < 20 MB, in contrast to AQLite at 90, and the Artix Launcher at 100+!.
+
+Note: PrivacyQuest runs on your browser and requires no installation. After Flash dies I will look into a way to run PQ in a window. Users will still be able to use earlier versions of browsers to play it.
+
+# For old users: see the changelog of PrivacyQuest 3 click [here](https://github.com/Miyah-chan/PrivacyQuest/blob/main/PQ3.0.md)
+
 
 ![secretchat](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/media/secretchat.png)
 
@@ -109,7 +114,6 @@ Secretchat is now on/off toggleable by pressing F1.
 NOTE: Items are determined by comparing the swf file name from dmg_boost_detection.txt. It is up to the user to add them. I do not have a list of damage boost item SWF names.
 
 Bonus: easter eggs added in some window.
-
 
 
 # Installation How-To
