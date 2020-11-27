@@ -5,7 +5,7 @@ Privacy Quest is a project made for the purpose of letting users use unfiltered 
 
 Note: PrivacyQuest runs on your browser and requires no installation. After Flash dies I will look into a way to run PQ in a window. Users will still be able to use earlier versions of browsers to play it.
 
-# For old users: see the changelog of PrivacyQuest 3 click [here](https://github.com/Miyah-chan/PrivacyQuest/blob/main/PQ3.0.md)
+# For returning users: see the changelog of PrivacyQuest 3 click [here](https://github.com/Miyah-chan/PrivacyQuest/blob/main/PQ3.0.md)
 
 
 ![secretchat](https://raw.githubusercontent.com/Miyah-chan/PrivacyQuest/main/media/secretchat.png)
