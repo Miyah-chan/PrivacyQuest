@@ -6,8 +6,8 @@
    "chat_notifs": true,
    "room_update_notifs": true,
    "kill_toast": true,
-   "potion_detection": false,
-   "discord_whitelist": true,
+   "potion_detection": true,
+   "discord_whitelist": false,
    "gifs_enabled": true,
    "quest_reaccept": true,
    "self_deselect": true
