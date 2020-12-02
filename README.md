@@ -14,7 +14,7 @@ Note: PrivacyQuest runs on your browser and requires no installation. After Flas
 
 Privacy Quest Discord: https://discord.gg/Z3J93wZ
 
-Virustotal scan: https://www.virustotal.com/gui/file/fa8fccacf99f6b250fc9f593a2815ed338b3741fe8e6a917a657b6bac8b10dc3/
+Virustotal scan: https://www.virustotal.com/gui/file/9bb4137d8d2c50c6abd0cbb8da11ff18e8e5788b88796eb23e1d1f81289b7d36/
 # Quickstart
 To begin, start the application and hit "Start Proxy".
 
